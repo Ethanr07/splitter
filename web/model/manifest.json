@@ -1,0 +1,23 @@
+{
+ "name": "htdemucs_6s",
+ "sources": [
+  "drums",
+  "bass",
+  "other",
+  "vocals",
+  "guitar",
+  "piano"
+ ],
+ "samplerate": 44100,
+ "segment": 343980,
+ "nfft": 4096,
+ "hop": 1024,
+ "bytes": 114560299,
+ "parts": [
+  "model.onnx.part00",
+  "model.onnx.part01",
+  "model.onnx.part02",
+  "model.onnx.part03",
+  "model.onnx.part04"
+ ]
+}
